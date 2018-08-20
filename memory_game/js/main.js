@@ -1,4 +1,3 @@
-// Create an array to store all cards
 var cards = ['queen', 'queen', 'king', 'king'];
 
 var cardsInPlay = [];
